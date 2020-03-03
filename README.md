@@ -53,7 +53,7 @@ The texturepack includes the following additions:
 - New loading screen
 - BombBrigader death messages
 - BombBrigader style messages
-- Lightmaps for end and nether _(subject to change)_
+- Lightmaps for end and nether _(Removed for now)_
 - HD Font ([Credits](#credits))
 - Durability colors
 - XP orb colors
