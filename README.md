@@ -40,7 +40,7 @@ Use GitHub clone function.
 
 1. Open up a terminal and navigate to your Minecraft resource folder.
     - `cd PATHTOFILE`
-2. Inside of this folder go to the GitHub page and select _`lone or download`, if you do not have SSH click `Use HTTP`. Copy this link.
+2. Inside of this folder go to the GitHub page and select `clone or download`, if you do not have SSH click `Use HTTP`. Copy this link.
 3. Back in terminal run this command:
    - `git clone LINKHERE`
 4. Wait for it to finish and you should have the full resourcepack. Later if you want to update you can simply navigate back to it and do:
