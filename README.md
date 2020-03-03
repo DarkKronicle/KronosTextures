@@ -28,40 +28,40 @@ There are 2 main ways to install this texturepack into Minecraft:
 
 Download the zip.
 
-1. Download the texturepack by going to the Github repo and select _clone or download_, select download.
+1. Download the texturepack by going to the Github repo and select `clone or download`, select download.
 2. Move the downloaded file to your Minecraft resourcepack folder.
 3. Reload the resourcepack and it should be there
-    * If this doesn't work you may need to uncompress the zip file.
+    - If this doesn't work you may need to uncompress the zip file.
 
 ### 2nd method
 
 Use GitHub clone function.
 
 1. Open up a terminal and navigate to your Minecraft resource folder.
-    * `cd PATHTOFILE`
-2. Inside of this folder go to the GitHub page and select _Clone or download_, if you do not have SSH click _Use HTTP_. Copy this link.
+    - `cd PATHTOFILE`
+2. Inside of this folder go to the GitHub page and select _`lone or download`, if you do not have SSH click `Use HTTP`. Copy this link.
 3. Back in terminal run this command:
-   * git clone LINKHERE
+   - `git clone LINKHERE`
 4. Wait for it to finish and you should have the full resourcepack. Later if you want to update you can simply navigate back to it and do:
-   * git pull
+   - `git pull`
 
 ## Features
 
 The texturepack includes the following additions:
 
-* New splashes and panorama.
-* New loading screen
-* BombBrigader death messages
-* BombBrigader style messages
-* Lightmaps for end and nether _(subject to change)_
-* HD Font (Goto credits)
-* Durability colors
-* XP orb colors
-* XP text color
-* End sky color
-* Slime colors
-* Enchantment glint
-* Sky textures (Goto Credits)
+- New splashes and panorama.
+- New loading screen
+- BombBrigader death messages
+- BombBrigader style messages
+- Lightmaps for end and nether _(subject to change)_
+- HD Font ([Credits](#credits))
+- Durability colors
+- XP orb colors
+- XP text color
+- End sky color
+- Slime colors
+- Enchantment glint
+- Sky textures ([Credits](#credits))
 
 ## Optifine Use
 
@@ -75,17 +75,18 @@ In this section all files are from ~/optifine/
 
 Inside of here there are multiple parameters we use:
 
-* `text.xpbar=fffff` Sets xp text to white
-* `screen.loading.progress=6628e2` Sets loading screen progress bar to purple.
-* `screen.loading=000000` Sets loading screen background to black.
-* `screen.loading.outline=9e9e9e` Sets loading screen progress bar outline to white.
-* `xporb.time=50000` Sets how fast the xp bar flickers
-* `sky.end=3b004d` Sets end sky color to a dark purple.
+- `text.xpbar=fffff` Sets xp text to white
+- `screen.loading.progress=6628e2` Sets loading screen progress bar to purple.
+- `screen.loading=000000` Sets loading screen background to black.
+- `screen.loading.outline=9e9e9e` Sets loading screen progress bar outline to white.
+- `xporb.time=50000` Sets how fast the xp bar flickers
+- `sky.end=3b004d` Sets end sky color to a dark purple.
 
 ## Credits
 
 [HD Font (64x64)](https://www.planetminecraft.com/texture_pack/hd-minecraft-font---64x---default-style) ~/textures/font/ascii.png  
-[Real Nature](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2416089-real-nature-resource-pack-photo-realistic-1-11-x-1) ~/optifine/sky/
+[Real Nature](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2416089-real-nature-resource-pack-photo-realistic-1-11-x-1) ~/optifine/sky/  
+[Uncle Jam](https://www.youtube.com/channel/UCfg9squuCoQvPJt5tCWjTOg) Used his tutorials.
 
 ## Contributing/Questions
 
