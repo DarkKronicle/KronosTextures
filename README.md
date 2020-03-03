@@ -7,6 +7,7 @@ By DarkKronicle and Chronos22Gamer
   - [1st method](#1st-method)
   - [2nd method](#2nd-method)
 - [Features](#features)
+- [Other Packs](#other-packs)
 - [Optifine Use](#optifine-use)
   - [color.properties](#colorproperties)
 - [Credits](#credits)
@@ -63,6 +64,14 @@ The texturepack includes the following additions:
 - Enchantment glint
 - Sky textures ([Credits](#credits))
 
+## Other Packs
+
+Inside of the project there is a folder labled `otherpacks`, in here there are other resourcepacks that provide helpful tools for MC. You have to move these outside of the folder to be used.
+
+Current packs:
+
+- `LightLevelHelper` - Makes it so spawnable blocks are red.
+
 ## Optifine Use
 
 In this texturepack how optifine is used to provide more ways to customize minecraft. Mainly we use this to change hardcoded colors and provide randomness to different textures.
@@ -90,4 +99,4 @@ Inside of here there are multiple parameters we use:
 
 ## Contributing/Questions
 
-To contribute any textures or ideas go to the [BombBrigader Discord](https://discord.gg/NC6UBcy)
+To contribute any textures or ideas go to the [BombBrigader's Discord](https://discord.gg/NC6UBcy)
