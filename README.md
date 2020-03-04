@@ -15,9 +15,9 @@ By DarkKronicle and Chronos22Gamer
 
 ## Overview
 
-Only a couple textures have been used from other texturepacks (you can see all at the end of the document), we strive to make this pack as original as possible. This pack's goal is to improve everyday Minecraft without drastically changing the feel and look. This pack only works on 1.15 and _requires_ Optifine for many of the features. This texturepack is meant to be an add on to be an add on, not a texturepack you use alone, so feel free to add on any other texturepacks to improve generic looks.
+This pack's goal is to improve everyday Minecraft without drastically changing the feel and look. This pack only works on 1.15 and _requires_ Optifine for many of the features. This texturepack is meant to be an add on to be an add on, not a texturepack you use alone, so feel free to add on any other texturepacks to improve generic looks. While we strive to make this pack as original as possible, select textures have been used from other texturepacks. These textures are visible in the [credits](#credits).
 
-We have also added textures from a game called [BombBrigaders](https://github.com/DarkKronicle/BombBrigaders), including panoramas and different messages from there. As well as random other builds we've made.
+We have also added textures from a game called [BombBrigaders](https://github.com/DarkKronicle/BombBrigaders), including panoramas and different messages from there. Along with this, other builds that we've made are present.
 
 In this file there will be documentation on how different aspects of this texturepack were achieved and how you can use do it too.
 
@@ -50,10 +50,10 @@ Use GitHub clone function.
 
 The texturepack includes the following additions:
 
-- New splashes and panorama.
+- New splashes and panorama
 - New loading screen
-- BombBrigader death messages
-- BombBrigader style messages
+- BombBrigaders death messages
+- BombBrigaders style messages
 - Lightmaps for end and nether _(Removed for now)_
 - HD Font ([Credits](#credits))
 - Durability colors
@@ -99,4 +99,4 @@ Inside of here there are multiple parameters we use:
 
 ## Contributing/Questions
 
-To contribute any textures or ideas go to the [BombBrigader's Discord](https://discord.gg/NC6UBcy)
+To contribute any textures or ideas go to the [BombBrigaders Discord](https://discord.gg/NC6UBcy)
