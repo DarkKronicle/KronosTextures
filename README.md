@@ -44,7 +44,7 @@ Use GitHub clone function.
 3. Back in terminal run this command:
    - `git clone LINKHERE`
 4. Wait for it to finish and you should have the full resourcepack. Later if you want to update you can simply navigate back to it and do:
-   - `git pull`
+   - `git pull` (To update you only need to do `git pull` after you've cloned it)
 
 ## Features
 
