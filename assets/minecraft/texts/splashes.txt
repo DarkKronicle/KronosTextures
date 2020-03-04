@@ -25,3 +25,4 @@
 §7Spanish is Hard, §oOkay?
 §7Dark gets angry at Spigot!
 §7Dark gets angry at CraftBukkit!
+§7Chronos can't use git!
