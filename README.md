@@ -48,21 +48,28 @@ Use GitHub clone function.
 
 ## Features
 
-The texturepack includes the following additions:
+All additions planned and added:
 
-- New splashes and panorama
-- New loading screen
-- BombBrigaders death messages
-- BombBrigaders style messages
-- Lightmaps for end and nether _(Removed for now)_
-- HD Font ([Credits](#credits))
-- Durability colors
-- XP orb colors
-- XP text color
-- End sky color
-- Slime colors
-- Enchantment glint
-- Sky textures ([Credits](#credits))
+- [x] New splashes and panorama
+- [ ] Credits/End text
+- [x] New loading screen
+- [x] BombBrigaders death messages
+- [x] BombBrigaders style messages
+- [ ] Change Message text's
+- [x] Lightmaps for end and nether _(Removed for now)_
+- [x] HD Font ([Credits](#credits))
+- [x] Durability colors
+- [x] XP orb colors
+- [x] XP text color
+- [x] End sky color
+- [x] Slime colors
+- [x] Enchantment glint
+- [x] Sky textures ([Credits](#credits))
+- [ ] Dark GUI
+- [ ] Clean Hotbar
+- [ ] HD Icons/Minimalistic Icons
+- [ ] Random Panoramas
+- [ ] Fancy GUI's (i.e. beacon GUI being different depending on level)
 
 ## Other Packs
 
