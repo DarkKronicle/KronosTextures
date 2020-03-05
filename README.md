@@ -78,6 +78,7 @@ Inside of the project there is a folder labled `otherpacks`, in here there are o
 Current packs:
 
 - `LightLevelHelper` - Makes it so spawnable blocks are red.
+- `ChronosEdits` - Chronos's texture edits that everyone may not like.
 
 ## Optifine Use
 
