@@ -19,7 +19,7 @@
 §fBrigading Bombs!
 §fWe're Bomb Brigadiers!
 §4TheNetherFortress §fwas a fun map!
-§fAre you alive?
+§f§oAre you alive?
 §fChronos can't speedbridge!
 §fDark can't speedbridge!
 §fSpanish is Hard, §oOkay?
